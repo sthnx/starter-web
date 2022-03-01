@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work.
 Adding a line for no 
-particular reason!
+particular reason, then adding some more changes from
+myfeature branch too.
 
 ## Introduction
 
