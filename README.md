@@ -16,7 +16,8 @@ Some notes!!
 
 ## How To Contribute
 
-Write good code!
+Please fork this repository and then issue Pull Requests for
+review.
 
 ### Copyright
 
