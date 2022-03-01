@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Geoff Hull  gbhull@gmail.com
 
 # THANKS
 
