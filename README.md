@@ -17,3 +17,8 @@ Some notes!!
 ## How To Contribute
 
 Write good code!
+
+### Copyright
+
+Geoff 2 March 2022
+
