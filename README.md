@@ -24,5 +24,5 @@ review.
 
 ### Copyright
 
-Geoff 2 March 2022
+Geoff 2 March 2022. All rights reserved.
 
